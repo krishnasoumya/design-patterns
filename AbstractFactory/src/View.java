@@ -6,7 +6,7 @@
  * @author krishna
  *
  */
-public class View {
+public abstract class View {
 	
 	public abstract void draw();
 
